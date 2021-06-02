@@ -9,7 +9,7 @@ Simply download the files from this repository. Place them in the same file then
 ## Roadmap:
 In the future I would like items to be saved until terminated by the user, even if the page is refreshed
 
-##Licensing information: 
+## Licensing information: 
 
 MIT License
 
